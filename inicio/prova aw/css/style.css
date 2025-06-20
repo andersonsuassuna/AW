@@ -1,0 +1,51 @@
+html{
+    margin: 0 auto;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #454545;
+}
+
+p{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+a{
+    color: #206420;
+    text-decoration: none;
+}
+
+a{
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 42px;
+}
+
+.paragrafo1{
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+table{
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid #206420;
+}
+
+th{
+    background-color: #d0e8d0;
+}
+
+td{
+    background-color: #f0f8f0;
+    padding: 10px;
+}
+
+h2{
+    font-size: 16px;
+    text-align: center;
+}
