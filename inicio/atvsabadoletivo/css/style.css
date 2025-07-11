@@ -1,0 +1,33 @@
+body{
+    margin: 0 auto;
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: darkgreen;
+}
+
+header{
+    font-size: large;
+    text-align: center;
+    background-color: aqua;
+}
+
+main{
+    text-align: center;
+    color: black;
+}
+
+footer{
+    color: white;
+    font-size: small;
+    text-align: right;
+    background-color: black;
+}
+
+menu{
+    background-color: lightgoldenrodyellow;
+
+}
