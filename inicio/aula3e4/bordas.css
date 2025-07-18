@@ -1,0 +1,14 @@
+/*
+    todo elemento no HTML tem borda mas sua configuração padrão faz com que ela não seja visível
+    estilo da borda: border-style
+    a mais utilizada é a borda sólida
+    ex.: p{
+        border-style:solid;
+        border-width: 3px;
+        border-color: #00FF00
+    }
+    outro método: border: 1px solid #00FF00 (isso é quando não precisar identificar)
+    dá pra mudar só uma borda, basta adicionar (top, left, right ou bottom) depois do comando "border". ex.: border-left-style:solid
+    
+    arredondar borda: border-radius
+*/
